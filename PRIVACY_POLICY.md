@@ -13,7 +13,7 @@ The app stores the following data locally on your device:
 - Quiz progress (remaining questions)
 - Quiz performance stats (such as total correct and streak)
 
-This data is used only to support app functionality and is not transmitted to remote servers.
+This data is used only to support app functionality and is not transmitted to remote servers. The data is stored only for as long as the app remains installed on your device. You can delete all stored data by clearing the app’s storage in your device settings or uninstalling the app.
 
 ## Third-Party Services
 This version of Learn GCS does not include advertising SDKs and does not use analytics tracking for personal profiling.
